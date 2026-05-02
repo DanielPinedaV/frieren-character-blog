@@ -17,7 +17,8 @@ Este proyecto es una página web tipo blog dedicada al personaje Frieren del ani
 Desarrollar una página web estática aplicando conceptos de estructura HTML, estilos CSS y organización de contenido.
 
 ## 📷 Vista previa
-(Agrega aquí una captura de pantalla si quieres)
+<img width="1310" height="608" alt="image" src="https://github.com/user-attachments/assets/87378409-f5c7-4c53-97f3-1a8359f80dd7" />
+
 
 ## 👨‍💻 Autor
 Daniel Pineda
